@@ -1,0 +1,19 @@
+{
+  "name": "simplepeer-heroku-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leungjch/simplepeer-heroku-test.git"
+  },
+  "author": "Justin Leung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leungjch/simplepeer-heroku-test/issues"
+  },
+  "homepage": "https://github.com/leungjch/simplepeer-heroku-test#readme"
+}
